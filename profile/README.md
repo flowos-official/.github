@@ -24,7 +24,7 @@ FlowOS specializes in AI transformation (AX). We connect business data and build
 | [AI Layer](https://flowos.work/en/ai-layer) | Company-specific AI tools |
 | [OS-Pack](https://flowos.work/en/os-pack) | Business operations system |
 
-[Website](https://flowos.work/en) · [LinkedIn](https://www.linkedin.com/company/flowos-work/) · [YouTube](https://www.youtube.com/@FlowOS_Work) · [official@flowos.work](mailto:official@flowos.work)
+[Website](https://flowos.work/en) · [LinkedIn](https://www.linkedin.com/company/flowos-work/) · [YouTube](https://www.youtube.com/@FlowOS_Work) · [X](https://x.com/flowos_work) · [official@flowos.work](mailto:official@flowos.work)
 
 ## 한국어
 
@@ -36,4 +36,4 @@ FlowOS는 기업 데이터를 연결하고, 맞춤형 AI 시스템과 업무 자
 | [AI Layer](https://flowos.work/ko/ai-layer) | 기업 전용 업무 효율화 도구 |
 | [OS-Pack](https://flowos.work/ko/os-pack) | 기업 운영 시스템 구축 |
 
-[웹사이트](https://flowos.work/ko) · [링크드인](https://www.linkedin.com/company/flowos-work/) · [유튜브](https://www.youtube.com/@FlowOS_Work) · [official@flowos.work](mailto:official@flowos.work)
+[웹사이트](https://flowos.work/ko) · [링크드인](https://www.linkedin.com/company/flowos-work/) · [유튜브](https://www.youtube.com/@FlowOS_Work) · [X](https://x.com/flowos_work) · [official@flowos.work](mailto:official@flowos.work)
